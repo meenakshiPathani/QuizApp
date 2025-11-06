@@ -21,7 +21,7 @@ Users can test their knowledge, track their score, and enjoy a smooth, animated 
 Language: Swift 5  
 Framework: SwiftUI  
 Architecture: MVVM
-Platform: iOS 16+  
+Platform: iOS 17.6+  
 Data: Local JSON  
 Tools: Xcode 16, SF Symbols, Combine  
 
