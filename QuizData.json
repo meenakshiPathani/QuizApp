@@ -1,0 +1,60 @@
+{
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "What is the capital of Japan?",
+      "options": [
+        { "id": "q1o1", "text": "Tokyo" },
+        { "id": "q1o2", "text": "Beijing" },
+        { "id": "q1o3", "text": "Seoul" },
+        { "id": "q1o4", "text": "Bangkok" }
+      ],
+      "answerId": "q1o1"
+    },
+    {
+      "id": "q2",
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        { "id": "q2o1", "text": "Leonardo da Vinci" },
+        { "id": "q2o2", "text": "Pablo Picasso" },
+        { "id": "q2o3", "text": "Vincent van Gogh" },
+        { "id": "q2o4", "text": "Michelangelo" }
+      ],
+      "answerId": "q2o1"
+    },
+    {
+      "id": "q3",
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": [
+        { "id": "q3o1", "text": "Oxygen" },
+        { "id": "q3o2", "text": "Carbon Dioxide" },
+        { "id": "q3o3", "text": "Nitrogen" },
+        { "id": "q3o4", "text": "Hydrogen" }
+      ],
+      "answerId": "q3o2"
+    },
+    {
+      "id": "q4",
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "options": [
+        { "id": "q4o1", "text": "Brazil" },
+        { "id": "q4o2", "text": "China" },
+        { "id": "q4o3", "text": "UK" },
+        { "id": "q4o4", "text": "Russia" }
+      ],
+      "answerId": "q4o1"
+    },
+    {
+      "id": "q5",
+      "question": "How many continents are there?",
+      "options": [
+        { "id": "q5o1", "text": "5" },
+        { "id": "q5o2", "text": "6" },
+        { "id": "q5o3", "text": "7" },
+        { "id": "q5o4", "text": "8" }
+      ],
+      "answerId": "q5o3"
+    }
+  ]
+}
+
