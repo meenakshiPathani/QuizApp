@@ -30,7 +30,7 @@ Tools: Xcode 16, SF Symbols, Combine
 Clone the repository  
 git clone https://github.com/yourusername/QuizApp.git  
 Open QuizApp.xcodeproj or QuizApp.xcworkspace in Xcode.    
-Build and run on iPhone Simulator or device (iOS 16+).    
+Build and run on iPhone Simulator or device (iOS 17.6+).    
 
 
 **🧩 Future Improvements**  
